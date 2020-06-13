@@ -1,6 +1,6 @@
 {
   "name": "randomize-hex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "homepage": "https://github.com/jordanliu/randomize-hex",
   "description": "Generate a random hex color code",
   "main": "/lib/randomize.js",
