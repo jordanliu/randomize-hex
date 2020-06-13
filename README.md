@@ -1,4 +1,4 @@
-# randomize-hex 
+# randomize-hex ![CI](https://github.com/jordanliu/randomize-hex/workflows/CI/badge.svg)
 
  
  Generate random hex color codes.
