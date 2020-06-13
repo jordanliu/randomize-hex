@@ -1,0 +1,21 @@
+{
+  "name": "randomize-hex",
+  "version": "1.0.3",
+  "homepage": "https://github.com/jordanliu/randomize-hex",
+  "description": "Generate a random hex color code",
+  "main": "src/randomize.js",
+  "scripts": {
+    "test": "jest tests/test.js"
+  },
+  "keywords": [
+    "random",
+    "color",
+    "code",
+    "hex"
+  ],
+  "author": "Jordan Liu",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
