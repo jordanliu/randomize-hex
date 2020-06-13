@@ -12,7 +12,7 @@ Once installed import the package.
 
 **ECMAScript Syntax:**
 ```
-import { randomhex } from "randomize-hex";
+import { randomHex } from "randomize-hex";
 randomHex(); //returns a hex color code
 ```
 
