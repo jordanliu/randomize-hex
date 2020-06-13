@@ -1,0 +1,17 @@
+{
+  "name": "randomize-hex",
+  "version": "1.0.0",
+  "description": "Generate a random hex color code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "random",
+    "color",
+    "code",
+    "hex"
+  ],
+  "author": "Jordan Liu",
+  "license": "ISC"
+}
