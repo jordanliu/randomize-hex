@@ -1,4 +1,4 @@
-# randomize-hex 
+# randomize-hex ![CI](https://github.com/jordanliu/randomize-hex/workflows/CI/badge.svg)
 
  
  Generate random hex color codes.
@@ -12,7 +12,7 @@ Once installed import the package.
 
 **ECMAScript Syntax:**
 ```
-import { randomhex } from "randomize-hex";
+import { randomHex } from "randomize-hex";
 randomHex(); //returns a hex color code
 ```
 
