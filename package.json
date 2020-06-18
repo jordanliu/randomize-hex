@@ -3,7 +3,6 @@
   "version": "1.0.6",
   "homepage": "https://github.com/jordanliu/randomize-hex",
   "description": "Generate a random hex color code",
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" },
   "main": "src/randomize.js",
   "scripts": {
     "test": "jest tests/test.js"
